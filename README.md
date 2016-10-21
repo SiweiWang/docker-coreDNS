@@ -1,5 +1,5 @@
 # docker-coreDNS
-(coreDNS)[https://coredns.io/] runs in docker container
+[coreDNS](https://coredns.io/) runs in docker container
 
 ## How to run coreDNS 
 `docker run -p 53:53 -p 53:53/udp coredns`
