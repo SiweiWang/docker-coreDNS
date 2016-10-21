@@ -15,7 +15,7 @@ $ORIGIN example.net.
 
 my  IN      A       192.168.3.241
         IN      AAAA    2a01:7e00::f03c:91ff:feae:e74c
-www     IN  	CNAME   test
+www     IN  	CNAME   my
 
 api  IN      A       192.168.3.242
         IN      AAAA    2a01:7e00::f03c:91ff:feae:e74c

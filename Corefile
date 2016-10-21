@@ -1,5 +1,5 @@
-example.net:53 {
-    file ./example.net
+.:53 {
+    file ./example.net example.net
     proxy . 8.8.8.8:53 [2001:4860:4860::8888]:53
     cache
     errors stdout
